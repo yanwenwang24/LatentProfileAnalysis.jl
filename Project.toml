@@ -1,0 +1,4 @@
+name = "LatentProfileAnalysis"
+uuid = "fc98f882-db3a-41cf-afcd-d4774e7faf5f"
+authors = ["Yanwen Wang <yanwenwang@u.nus.edu>"]
+version = "0.1.0"
